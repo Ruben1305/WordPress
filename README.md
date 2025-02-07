@@ -13,4 +13,9 @@ He creado una pagina web en wordpress desde una maquina virtual de **IsardVDI** 
 
 ## Plugins 
 
-- De plugions he instalado diferentes como ahora el **OSM**, el **kubio**, **Polylang**, **A 
+- De plugions he instalado diferentes como ahora el **OSM**, **kubio**, **Polylang**, **Advanced Ads**, **Classic editor** ...
+- Algunos de estos plugins me han ayudado a poder hacer los objetivos que el profe nos puso como ahora poner anuncios o tener las paginas traducicdas.
+
+## Configuracion
+
+- He puesto la ip de la maquina virtual para poder acceder desde mi maquina ya que en la maquina virtual todo se relentiza y cuesta mucho mas trabajar.
